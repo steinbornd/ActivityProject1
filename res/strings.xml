@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Steinborn Activity Project</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_one">This is the first activity</string>
+    <string name="activity_two">This is the second activity</string>
+    <string name="activity_three">This is the third activity</string>
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+	<color name="green">#33CC66</color>
+	<color name="yellow">#FFFF66</color>
+	<color name="white">#FFFFFF</color>
+	<color name="gray">#D8D8D8</color>
+</resources>
